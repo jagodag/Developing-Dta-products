@@ -1,0 +1,8 @@
+base
+lattice
+ggplot2
+caret
+shiny
+devtools
+slidify
+knitr
