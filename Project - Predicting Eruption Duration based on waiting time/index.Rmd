@@ -75,6 +75,7 @@ lines(faithful$waiting, predict(lm1), col = "blue",lwd=3)
  ```
  Thank you for your attention and I hope you enjoyed the eruption of hot information!! :)
 
+publish(user = "dzagangel", repo = "Developing-Dta-products")
 
 
 
